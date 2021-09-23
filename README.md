@@ -1,7 +1,7 @@
 # Patika Ile  Ikinci Odev
 Bu repo yoğun iş tempomdan bulduğum fırsatlarda vakit ayırarak yaptığım ve benim için önemli olan bir ödevdir. 
 
-[LIVE](https://aysegultopyurek.github.io/125-Ciceksepeti-React-Bootcamp-odev-1/)
+[LIVE](https://aysegultopyurek.github.io/125-Ciceksepeti-React-Bootcamp-odev-2/)
  
 ## Installation
 Öncelikle projeyi clonelayalım.
