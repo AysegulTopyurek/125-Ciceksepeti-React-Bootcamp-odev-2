@@ -1,6 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Klee+One:wght@400;600&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Klee+One:wght@400;600&family=Oswald:wght@200;300;400;500;600;700&display=swap');
 body {
-  font-family: "Klee One", cursive;
+  font-family: 'Klee One', cursive;
+  font-family: 'Oswald', sans-serif;
 }
 header,
 footer {
