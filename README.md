@@ -1,7 +1,7 @@
 # Patika Ile  Ikinci Odev
 Birbirinden ilginç gifler ile sizlere 90'ları hatırlatıcak bir proje ile yine karşınızdayım. 
 
-[LIVE](https://happy-morse-519427.netlify.app/)
+[LIVE](https://keen-brown-f8a01d.netlify.app)
  
 ## Installation
 Öncelikle projeyi clonelayalım.
