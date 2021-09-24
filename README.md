@@ -1,7 +1,7 @@
 # Patika Ile  Ikinci Odev
-Bu repo yoğun iş tempomdan bulduğum fırsatlarda vakit ayırarak yaptığım ve benim için önemli olan bir ödevdir. 
+Birbirinden ilginç gifler ile sizlere 90'ları hatırlatıcak bir proje ile yine karşınızdayım. 
 
-[LIVE](https://aysegultopyurek.github.io/125-Ciceksepeti-React-Bootcamp-odev-1/)
+[LIVE](https://happy-morse-519427.netlify.app/)
  
 ## Installation
 Öncelikle projeyi clonelayalım.
